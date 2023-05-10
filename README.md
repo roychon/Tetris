@@ -13,3 +13,10 @@ The game follows the classic Tetris gameplay with the following controls:
 *Move Down: Down Arrow Key
 The player scores points by clearing horizontal lines of blocks without leaving any gaps. As the game progresses, the speed of the falling blocks increases, making it more challenging for the player.
 
+## Features
+*Classic Tetris gameplay
+*Easy to use controls
+*Increasing difficulty as the game progresses
+
+## Contributing
+If you would like to contribute to this project, you can fork this repository, make changes and create a pull request. Please ensure that your code is well-documented and follows the code style guidelines.
