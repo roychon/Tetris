@@ -4,3 +4,12 @@ This is a Tetris game built using Java and the NetBeans IDE. The game follows th
 
 ## Getting Started
 To play the game, you need to clone this repository to your local machine and then import the project into NetBeans IDE. Once you have imported the project, you can run the game by executing the Game.java file.
+
+## Gameplay
+The game follows the classic Tetris gameplay with the following controls:
+*Move Left: Left Arrow Key
+*Move Right: Right Arrow Key
+*Rotate: Up Arrow Key
+*Move Down: Down Arrow Key
+The player scores points by clearing horizontal lines of blocks without leaving any gaps. As the game progresses, the speed of the falling blocks increases, making it more challenging for the player.
+
